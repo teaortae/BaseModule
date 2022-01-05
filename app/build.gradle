@@ -81,7 +81,7 @@ afterEvaluate {
                 // You can then customize attributes of the publication as shown below.
                 groupId = 'com.github.teaortae'
                 artifactId = ''
-                version = '0.1.0.01'
+                version = '0.1.0.02'
             }
         }
     }
